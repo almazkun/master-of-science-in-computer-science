@@ -14,20 +14,16 @@ Kennesaw State University|3.0 (on the 4.0 scale) or its equivalent. Applicants w
 Texas Tech University (Whitacre)|Hard to find|GRE?|| https://catalog.ttu.edu/content.php?catoid=15&navoid=1496
 University of West Georgia College of Culture, Arts, and Scientific Inquiry|GPA of 2.5 or higher is required.| Master of Science in Applied Computer Science |~20k|https://www.westga.edu/academics/gradstudies/masters-programs.php
 University of West Florida Hal Marcus College of Science and Engineering|GPA of 3.0 on a 4.0 scale|Master of Science (M.S.)Computer Science|12,750|[https://uwf.edu/programs/hmcse/computer-science-ms/](https://onlinedegrees.uwf.edu/online-degrees/ms-masters-computer-science/)
-National University||||https://www.nu.edu/degrees/engineering-and-computing/programs/master-of-science-in-computer-science/
-Dakota State University|
-Kansas State University|
-Kutztown University of Pennsylvania|
-University of New Mexico|
-University of Massachusetts--Dartmouth|
-SUNY Polytechnic Institute College of Engineering|
-Colorado Technical University|
-Montclair State University|
-West Virginia University|
-City University of Seattle|
-Western Michigan University|
-Saint Xavier University|
-James Madison University|
+National University|lax|Master of Science in Computer Science|30k|https://www.nu.edu/degrees/engineering-and-computing/programs/master-of-science-in-computer-science/
+Dakota State University|3.0 on a 4.0 scale,GRE|MASTER OF SCIENCE IN COMPUTER SCIENCE (MSCS)|20k|https://dsu.edu/programs/mscs/index.html
+Kansas State University|3.0 minimum GPA in the final two years|Computer Science Master's Degree|26k|https://online.k-state.edu/programs/computer-science-masters/
+University of Massachusetts--Dartmouth|lax|Master of Science in Computer Science|20k|https://www.umassd.edu/programs/computer-science-ms-online/
+SUNY Polytechnic Institute College of Engineering|404|||
+Colorado Technical University|MSCS foundation courses (CS503 and CS505|Master of Science in Computer Science|30k|https://www.coloradotech.edu/degrees/masters/computer-science
+West Virginia University|3.0 (on a 4-point scale) or better.|Master of Science in Software Engineering|24k|https://online.wvu.edu/degrees-certificates/graduate-degrees/software-engineering-master-s-degree-m-s-s-e
+City University of Seattle|Preparatory Courses|MASTER OF SCIENCE IN COMPUTER SCIENCE|30k|https://www.cityu.edu/programs-overview/master-science-computer-science/
+Western Michigan University|Foundation Courses|master's degree in cybersecurity|30k|https://wmich.edu/cybersecurity/programs/master
+James Madison University|GRE|Computer Science, Cybersecurity Concentration, M.S.|26k|https://www.jmu.edu/infosec/index.shtml
 University of Louisville|
 Lewis University|
 Boston University|
