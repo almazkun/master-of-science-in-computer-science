@@ -24,12 +24,12 @@ West Virginia University|3.0 (on a 4-point scale) or better.|Master of Science i
 City University of Seattle|Preparatory Courses|MASTER OF SCIENCE IN COMPUTER SCIENCE|30k|https://www.cityu.edu/programs-overview/master-science-computer-science/
 Western Michigan University|Foundation Courses|master's degree in cybersecurity|30k|https://wmich.edu/cybersecurity/programs/master
 James Madison University|GRE|Computer Science, Cybersecurity Concentration, M.S.|26k|https://www.jmu.edu/infosec/index.shtml
-University of Louisville|
-Lewis University|
-Boston University|
-University of North Dakota College of Engineering and Mines|
-Regis University|
-Auburn University|
+University of Louisville|Minimum undergraduate GPA of 2.75 to be admitted in good standing (applicants with a lower GPA may obtain conditional admission)|Master of Science in Computer Science|23k|https://louisville.edu/online/programs/masters/master-of-science-in-computer-science
+Lewis University|Minimum undergraduate GPA of 3.0 on a 4.0 scale. Students who have a GPA less than 3.0 may be conditionally admitted providing they earn a 3.0 or higher in their first 9 credit hours|Master of Science in Computer Science|25k|https://www.lewisu.edu/academics/mscomputerscience/index.htm
+Boston University|lax|Master of Science in Software Development|27k|https://www.bu.edu/met/degrees-certificates/ms-software-development/
+University of North Dakota College of Engineering and Mines|An overall undergraduate GPA of at least 3.00.Applicant holding degrees from non-ABET accredited programs/universities are strongly recommended to submit scores from the General Test of Graduate Record Examination.|Master's Degree in Computer Science|26k|https://und.edu/programs/computer-science-ms/
+Regis University|Completed online application,Official degree-bearing transcript(s) from a regionally accredited college or university,Resume,Admissions essay|M.S. in Software Engineering|31k|https://www.regis.edu/academics/majors-and-programs/graduate/software-engineering-ms
+Auburn University|lax|Master of Science - Computer Science and Software Engineering|31k|https://eng.auburn.edu/online/program/master-of-science-computer-science-software-engineering
 Nova Southeastern University|
 University of Oklahoma|
 Baylor University|
