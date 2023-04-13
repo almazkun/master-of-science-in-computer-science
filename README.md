@@ -1,8 +1,9 @@
 # Master of Science in Computer Science
 1. Easy to get in
 2. Fast to finish
-3. From top 500 world university (https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking#!/page/0/length/25/sort_by/name/sort_order/desc/cols/stats)
-4. Online
+3. Online
+4. US regionally accredited or from top 500 world university (https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking#!/page/0/length/25/sort_by/name/sort_order/desc/cols/stats)
+
 
 # Programs
 
