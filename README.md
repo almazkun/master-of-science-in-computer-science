@@ -48,8 +48,8 @@ Johns Hopkins University (Whiting)|Admitted students typically have earned a gra
 Rice University|at least a 3.00 (B) grade point average in their undergraduate work. Exceptions can be made if a student has sufficient work experience, GRE scores that show a high level of competence, a master’s degree, strong letters of recommendation, and/or specific circumstances that led to a low GPA.|Master of Computer Science|50k|https://csweb.rice.edu/academics/graduate-programs/online-mcs
 Stevens Institute of Technology (Schaefer)|Minimum GPA of 3.0 from an accredited institution.|MASTER’S IN COMPUTER SCIENCE|53k|https://online.stevens.edu/online-masters-computer-science-mscs/
 Syracuse University|average GPA of 3.0 or better; and|Master’s in Computer Science|56k|https://onlinegrad.syracuse.edu/engineering/computer-science/?_ga=2.92311069.1667202368.1681293361-547359633.1681293361
-North Carolina State University||||
-New York University||||
-Vanderbilt University||||
-University of Southern California||||
-Columbia University||||
+North Carolina State University| minimum grade point average (GPA) of 3.0. GRE|Master of Computer Science|64k|https://online-distance.ncsu.edu/program/master-of-computer-science/
+New York University|If you come from a non-engineering background you can prepare to apply for the Cybersecurity Master’s Degree by taking the NYU Tandon Bridge Program.|MS in Cybersecurity|65k|https://engineering.nyu.edu/academics/programs/cybersecurity-ms-online
+Vanderbilt University|hold a bachelor’s degree in another subject but have significant experience in computer science and programming.|M.S. in computer science|66k|https://info.engineering.vanderbilt.edu/online/computer-science
+University of Southern California|Bachelor's degree from an accredited institution in any engineering|Computer Science (Scientists and Engineers) (MS)|91k|https://catalogue.usc.edu/preview_program.php?catoid=14&poid=17164&returnto=5195
+Columbia University|Minimum GPA3.3|Computer Science Master's Degree|104k|https://www.cvn.columbia.edu/program/columbia-university-computer-science-masters-degree-masters-science
