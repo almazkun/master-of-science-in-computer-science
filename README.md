@@ -55,3 +55,111 @@ New York University|If you come from a non-engineering background you can prepar
 Vanderbilt University|hold a bachelor’s degree in another subject but have significant experience in computer science and programming.|M.S. in computer science|66k|https://info.engineering.vanderbilt.edu/online/computer-science
 University of Southern California|Bachelor's degree from an accredited institution in any engineering|Computer Science (Scientists and Engineers) (MS)|91k|https://catalogue.usc.edu/preview_program.php?catoid=14&poid=17164&returnto=5195
 Columbia University|Minimum GPA3.3|Computer Science Master's Degree|104k|https://www.cvn.columbia.edu/program/columbia-university-computer-science-masters-degree-masters-science
+
+#|rank|Uni
+---|---|---
+1 | 401–500 | William & Mary
+2 | 401–500 | The UniversityofTulsa
+3 | 401–500 | SyracuseUniversity
+4 | 401–500 | NovaSoutheastern University
+5 | 401–500 | University of Nebraska Medical Center
+6 | 401–500 | University of Nebraska-Lincoln
+7 | 401–500 | UniversityofKansas
+8 | 401–500 | IowaStateUniversity
+9 | 401–500 | Illinois Institute of Technology
+10 | 401–500 | GeorgiaStateUniversity
+11 | 401–500 | UniversityofDenver
+12 | 401–500 | UniversityofConnecticut
+13 | 401–500 | Colorado State University, Fort Collins
+14 | 401–500 | ColoradoSchoolof Mines
+15 | 401–500 | University of Alaska Fairbanks
+16 | 351–400 | Washington State University
+17 | 351–400 | WakeForestUniversity
+18 | 351–400 | TulaneUniversity
+19 | 351–400 | UniversityofTexas at Dallas
+20 | 351–400 | Rush University
+21 | 351–400 | NorthCarolina State University
+22 | 351–400 | University of New Mexico (Main campus)
+23 | 351–400 | HowardUniversity
+24 | 351–400 | UniversityofDelaware
+25 | 301–350 | TheUniversity of Tennessee-Knoxville
+26 | 301–350 | TempleUniversity
+27 | 301–350 | StonyBrookUniversity
+28 | 301–350 | SaintLouisUniversity
+29 | 301–350 | University ofIowa
+30 | 301–350 | GeorgeMasonUniversity
+31 | 301–350 | FloridaStateUniversity
+32 | 301–350 | DrexelUniversity
+33 | 301–350 | University of Colorado Denver/Anschutz Medical Campus
+34 | 301–350 | University of California, Merced
+35 | 301–350 | UniversityatBuffalo
+36 | 301–350 | BrandeisUniversity
+37 | 251–300 | Virginia Polytechnic Institute and State University
+38 | 251–300 | University ofUtah
+39 | 251–300 | Oregon Health and Science University
+40 | 251–300 | University of Illinois Chicago
+41 | 251–300 | UniversityofHawai’i at Mānoa
+42 | 251–300 | University of California, Riverside
+43 | 251–300 | Boston College
+44 | 201–250 | UniversityofSouth Florida
+45 | 201–250 | Rutgers University – New Brunswick
+46 | 201–250 | UniversityofNotre Dame
+47 | 201–250 | GeorgeWashington University
+48 | 194 | UniversityofMiami
+49 | 192 | University of California, Santa Cruz
+50 | 191 | UniversityofMassachusetts
+51 | 181 | TexasA&MUniversity
+52 | 180 | UniversityofArizona
+53 | 170 | IndianaUniversity
+54 | 168 | Northeastern University, US
+55 | 156 | University of Virginia (Main campus)
+56 | 156 | Arizona State University (Tempe)
+57 | 154 | UniversityofRochester
+58 | 151 | Tufts University
+59 | 151 | PennState(Main campus)
+60 | 151 | UniversityofFlorida
+61 | 148 | University of Colorado Boulder
+62 | 147 | Rice University
+63 | 144 | University of Pittsburgh-Pittsburgh campus
+64 | 136 | GeorgetownUniversity
+65 | 134 | CaseWestern Reserve University
+66 | 127 | Purdue University West Lafayette
+67 | 123 | DartmouthCollege
+68 | 112 | Ohio State University (Main campus)
+69 | 106 | MichiganState University
+70 | 104 | University of Maryland, College Park
+71 | 101 | UniversityofMinnesota
+72 | 98 | VanderbiltUniversity
+73 | 95 | University of California, Irvine
+74 | 82 | Emory University
+75 | 81 | University of Wisconsin-Madison
+76 | 71 | BostonUniversity
+77 | 69 | University of North Carolina at Chapel Hill
+78 | 65 | University of Southern California
+79 | 64 | University of California, Santa Barbara
+80 | 63 | University of California, Davis
+81 | 61 | Brown University
+82 | 57 | Washington University in St Louis
+83 | 50 | UniversityofTexas at Austin
+84 | 48 | University of Illinois at Urbana-Champaign
+85 | 38 | GeorgiaInstitute of Technology
+86 | 32 | University of California, San Diego
+87 | 28 | CarnegieMellon University
+88 | 26 | UniversityofWashington
+89 | 26 | NorthwesternUniversity
+90 | 25 | Duke University
+91 | 24 | NewYorkUniversity
+92 | 23 | University of Michigan-Ann Arbor
+93 | 21 | University of California, Los Angeles
+94 | 20 | CornellUniversity
+95 | 15 | JohnsHopkinsUniversity
+96 | 14 | UniversityofPennsylvania
+97 | 13 | The UniversityofChicago
+98 | 11 | ColumbiaUniversity
+99 | 9 | Yale University
+100 | 8 | University of California, Berkeley
+101 | 7 | PrincetonUniversity
+102 | 6 | California Institute of Technology
+103 | 5 | Massachusetts Institute of Technology
+104 | 3 | StanfordUniversity
+105 | 2 | HarvardUniversity
