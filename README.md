@@ -56,110 +56,159 @@ Vanderbilt University|hold a bachelor’s degree in another subject but have sig
 University of Southern California|Bachelor's degree from an accredited institution in any engineering|Computer Science (Scientists and Engineers) (MS)|91k|https://catalogue.usc.edu/preview_program.php?catoid=14&poid=17164&returnto=5195
 Columbia University|Minimum GPA3.3|Computer Science Master's Degree|104k|https://www.cvn.columbia.edu/program/columbia-university-computer-science-masters-degree-masters-science
 
+
+# Top 600
+## US
 #|rank|Uni
 ---|---|---
-1 | 401–500 | William & Mary
-2 | 401–500 | The UniversityofTulsa
-3 | 401–500 | SyracuseUniversity
-4 | 401–500 | NovaSoutheastern University
-5 | 401–500 | University of Nebraska Medical Center
-6 | 401–500 | University of Nebraska-Lincoln
-7 | 401–500 | UniversityofKansas
-8 | 401–500 | IowaStateUniversity
-9 | 401–500 | Illinois Institute of Technology
-10 | 401–500 | GeorgiaStateUniversity
-11 | 401–500 | UniversityofDenver
-12 | 401–500 | UniversityofConnecticut
-13 | 401–500 | Colorado State University, Fort Collins
-14 | 401–500 | ColoradoSchoolof Mines
-15 | 401–500 | University of Alaska Fairbanks
-16 | 351–400 | Washington State University
-17 | 351–400 | WakeForestUniversity
-18 | 351–400 | TulaneUniversity
-19 | 351–400 | UniversityofTexas at Dallas
-20 | 351–400 | Rush University
-21 | 351–400 | NorthCarolina State University
-22 | 351–400 | University of New Mexico (Main campus)
-23 | 351–400 | HowardUniversity
-24 | 351–400 | UniversityofDelaware
-25 | 301–350 | TheUniversity of Tennessee-Knoxville
-26 | 301–350 | TempleUniversity
-27 | 301–350 | StonyBrookUniversity
-28 | 301–350 | SaintLouisUniversity
-29 | 301–350 | University ofIowa
-30 | 301–350 | GeorgeMasonUniversity
-31 | 301–350 | FloridaStateUniversity
-32 | 301–350 | DrexelUniversity
-33 | 301–350 | University of Colorado Denver/Anschutz Medical Campus
-34 | 301–350 | University of California, Merced
-35 | 301–350 | UniversityatBuffalo
-36 | 301–350 | BrandeisUniversity
-37 | 251–300 | Virginia Polytechnic Institute and State University
-38 | 251–300 | University ofUtah
-39 | 251–300 | Oregon Health and Science University
-40 | 251–300 | University of Illinois Chicago
-41 | 251–300 | UniversityofHawai’i at Mānoa
-42 | 251–300 | University of California, Riverside
-43 | 251–300 | Boston College
-44 | 201–250 | UniversityofSouth Florida
-45 | 201–250 | Rutgers University – New Brunswick
-46 | 201–250 | UniversityofNotre Dame
-47 | 201–250 | GeorgeWashington University
-48 | 194 | UniversityofMiami
-49 | 192 | University of California, Santa Cruz
-50 | 191 | UniversityofMassachusetts
-51 | 181 | TexasA&MUniversity
-52 | 180 | UniversityofArizona
-53 | 170 | IndianaUniversity
-54 | 168 | Northeastern University, US
-55 | 156 | University of Virginia (Main campus)
-56 | 156 | Arizona State University (Tempe)
-57 | 154 | UniversityofRochester
-58 | 151 | Tufts University
-59 | 151 | PennState(Main campus)
-60 | 151 | UniversityofFlorida
-61 | 148 | University of Colorado Boulder
-62 | 147 | Rice University
-63 | 144 | University of Pittsburgh-Pittsburgh campus
-64 | 136 | GeorgetownUniversity
-65 | 134 | CaseWestern Reserve University
-66 | 127 | Purdue University West Lafayette
-67 | 123 | DartmouthCollege
-68 | 112 | Ohio State University (Main campus)
-69 | 106 | MichiganState University
-70 | 104 | University of Maryland, College Park
-71 | 101 | UniversityofMinnesota
-72 | 98 | VanderbiltUniversity
-73 | 95 | University of California, Irvine
-74 | 82 | Emory University
-75 | 81 | University of Wisconsin-Madison
-76 | 71 | BostonUniversity
-77 | 69 | University of North Carolina at Chapel Hill
-78 | 65 | University of Southern California
-79 | 64 | University of California, Santa Barbara
-80 | 63 | University of California, Davis
-81 | 61 | Brown University
-82 | 57 | Washington University in St Louis
-83 | 50 | UniversityofTexas at Austin
-84 | 48 | University of Illinois at Urbana-Champaign
-85 | 38 | GeorgiaInstitute of Technology
-86 | 32 | University of California, San Diego
-87 | 28 | CarnegieMellon University
-88 | 26 | UniversityofWashington
-89 | 26 | NorthwesternUniversity
-90 | 25 | Duke University
-91 | 24 | NewYorkUniversity
-92 | 23 | University of Michigan-Ann Arbor
-93 | 21 | University of California, Los Angeles
-94 | 20 | CornellUniversity
-95 | 15 | JohnsHopkinsUniversity
-96 | 14 | UniversityofPennsylvania
-97 | 13 | The UniversityofChicago
-98 | 11 | ColumbiaUniversity
-99 | 9 | Yale University
-100 | 8 | University of California, Berkeley
-101 | 7 | PrincetonUniversity
-102 | 6 | California Institute of Technology
-103 | 5 | Massachusetts Institute of Technology
-104 | 3 | StanfordUniversity
-105 | 2 | HarvardUniversity
+1 | 2 | Harvard University
+2 | 3 | Stanford University
+3 | 5 | Massachusetts Institute of Technology
+4 | 6 | California Institute of Technology
+5 | 7 | Princeton University
+6 | 8 | University of California, Berkeley
+7 | 9 | Yale University
+8 | 11 | Columbia University
+9 | 13 | The University of Chicago
+10 | 14 | University of Pennsylvania
+11 | 15 | Johns Hopkins University
+12 | 20 | Cornell University
+13 | 21 | University of California, Los Angeles
+14 | 23 | University of Michigan-Ann Arbor
+15 | 24 | New York University
+16 | 25 | Duke University
+17 | 26 | Northwestern University
+18 | 26 | University of Washington
+19 | 28 | Carnegie Mellon University
+20 | 32 | University of California, San Diego
+21 | 38 | Georgia Institute of Technology
+22 | 48 | University of Illinois at Urbana-Champaign
+23 | 50 | University of Texas at Austin
+24 | 57 | Washington University in St Louis
+25 | 61 | Brown University
+26 | 63 | University of California, Davis
+27 | 64 | University of California, Santa Barbara
+28 | 65 | University of Southern California
+29 | 69 | University of North Carolina at Chapel Hill
+30 | 71 | Boston University
+31 | 81 | University of Wisconsin-Madison
+32 | 82 | Emory University
+33 | 95 | University of California, Irvine
+34 | 98 | Vanderbilt University
+35 | 101 | University of Minnesota
+36 | 104 | University of Maryland, College Park
+37 | 106 | Michigan State University
+38 | 112 | Ohio State University (Main campus)
+39 | 123 | Dartmouth College
+40 | 127 | Purdue University West Lafayette
+41 | 134 | Case Western Reserve University
+42 | 136 | Georgetown University
+43 | 144 | University of Pittsburgh-Pittsburgh campus
+44 | 147 | Rice University
+45 | 148 | University of Colorado Boulder
+46 | 151 | University of Florida
+47 | 151 | Penn State (Main campus)
+48 | 151 | Tufts University
+49 | 154 | University of Rochester
+50 | 156 | Arizona State University (Tempe)
+51 | 156 | University of Virginia (Main campus)
+52 | 168 | Northeastern University, US
+53 | 170 | Indiana University
+54 | 180 | University of Arizona
+55 | 181 | Texas A&M University
+56 | 191 | University of Massachusetts
+57 | 192 | University of California, Santa Cruz
+58 | 194 | University of Miami
+59 | 201–250 | George Washington University
+60 | 201–250 | University of Notre Dame
+61 | 201–250 | Rutgers University – New Brunswick
+62 | 201–250 | University of South Florida
+63 | 251–300 | Boston College
+64 | 251–300 | University of California, Riverside
+65 | 251–300 | University of Hawai’i at Mānoa
+66 | 251–300 | University of Illinois Chicago
+67 | 251–300 | Oregon Health and Science University
+68 | 251–300 | University of Utah
+69 | 251–300 | Virginia Polytechnic Institute and State University
+70 | 301–350 | Brandeis University
+71 | 301–350 | University at Buffalo
+72 | 301–350 | University of California, Merced
+73 | 301–350 | University of Colorado Denver/Anschutz Medical Campus
+74 | 301–350 | Drexel University
+75 | 301–350 | Florida State University
+76 | 301–350 | George Mason University
+77 | 301–350 | University of Iowa
+78 | 301–350 | Saint Louis University
+79 | 301–350 | Stony Brook University
+80 | 301–350 | Temple University
+81 | 301–350 | The University of Tennessee-Knoxville
+82 | 351–400 | University of Delaware
+83 | 351–400 | Howard University
+84 | 351–400 | University of New Mexico (Main campus)
+85 | 351–400 | North Carolina State University
+86 | 351–400 | Rush University
+87 | 351–400 | University of Texas at Dallas
+88 | 351–400 | Tulane University
+89 | 351–400 | Wake Forest University
+90 | 351–400 | Washington State University
+91 | 401–500 | University of Alaska Fairbanks
+92 | 401–500 | Colorado School of Mines
+93 | 401–500 | Colorado State University, Fort Collins
+94 | 401–500 | University of Connecticut
+95 | 401–500 | University of Denver
+96 | 401–500 | Georgia State University
+97 | 401–500 | Illinois Institute of Technology
+98 | 401–500 | Iowa State University
+99 | 401–500 | University of Kansas
+100 | 401–500 | University of Nebraska-Lincoln
+101 | 401–500 | University of Nebraska Medical Center
+102 | 401–500 | Nova Southeastern University
+103 | 401–500 | Syracuse University
+104 | 401–500 | The University of Tulsa
+105 | 401–500 | William & Mary
+106 | 501–600 | Florida International University
+107 | 501–600 | University of Kentucky
+108 | 501–600 | Missouri University of Science and Technology
+109 | 501–600 | University of South Carolina-Columbia
+110 | 501–600 | Stevens Institute of Technology
+111 | 501–600 | SUNY University at Albany
+112 | 501–600 | Virginia Commonwealth University
+113 | 501–600 | Wayne State University
+
+## Canada
+#|rank|Uni
+---|---|---
+1 | 18 | University of Toronto
+2 | 40 | University of British Columbia
+3 | 46 | McGill University
+4 | 85 | McMaster University
+5 | 111 | University of Montreal
+6 | 118 | University of Alberta
+7 | 137 | University of Ottawa
+8 | 201–250 | University of Calgary
+9 | 201–250 | University of Waterloo
+10 | 201–250 | Western University
+11 | 251–300 | Université Laval
+12 | 251–300 | Queen’s University
+13 | 251–300 | Simon Fraser University
+14 | 301–350 | Dalhousie University
+15 | 301–350 | University of Victoria
+16 | 351–400 | University of Manitoba
+17 | 401–500 | York University
+18 | 501–600 | University of Guelph
+19 | 501–600 | University of Saskatchewan
+
+## Korea
+#|rank|Uni
+---|---|---
+1 | 56 | Seoul National University
+2 | 78 | Yonsei University (Seoul campus)
+3 | 91 | Korea Advanced Institute of Science and Technology (KAIST)
+4 | 163 | Pohang University of Science and Technology (POSTECH)
+5 | 170 | Sungkyunkwan University (SKKU)
+6 | 174 | Ulsan National Institute of Science and Technology (UNIST)
+7 | 201–250 | Korea University
+8 | 251–300 | Kyung Hee University
+9 | 251–300 | Sejong University
+10 | 401–500 | Hanyang University
+11 | 501–600 | Gwangju Institute of Science and Technology (GIST)
