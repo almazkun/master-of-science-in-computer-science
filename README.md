@@ -175,6 +175,80 @@ Columbia University|Minimum GPA3.3|Computer Science Master's Degree|104k|https:/
 112 | 501–600 | Virginia Commonwealth University
 113 | 501–600 | Wayne State University
 
+## UK
+#|rank|Uni
+---|---|---
+1 | 1 | University of Oxford
+2 | 3 | University of Cambridge
+3 | 10 | Imperial College London
+4 | 22 | UCL
+5 | 29 | University of Edinburgh
+6 | 35 | King’s College London
+7 | 37 | London School of Economics and Political Science
+8 | 54 | University of Manchester
+9 | 76 | University of Bristol
+10 | 82 | University of Glasgow
+11 | 104 | University of Warwick
+12 | 108 | University of Birmingham
+13 | 108 | University of Southampton
+14 | 114 | University of Sheffield
+15 | 122 | Lancaster University
+16 | 124 | Queen Mary University of London
+17 | 128 | University of Leeds
+18 | 130 | University of Nottingham
+19 | 137 | University of Exeter
+20 | 139 | Newcastle University
+21 | 139 | University of York
+22 | 163 | University of Leicester
+23 | 176 | University of Liverpool
+24 | 187 | Cardiff University
+25 | 192 | University of Aberdeen
+26 | 198 | Durham University
+27 | 198 | Queen’s University Belfast
+28 | 198 | University of Reading
+29 | 201–250 | University of Dundee
+30 | 201–250 | University of East Anglia
+31 | 201–250 | St George’s, University of London
+32 | 201–250 | University of St Andrews
+33 | 201–250 | University of Surrey
+34 | 201–250 | University of Sussex
+35 | 251–300 | University of Bath
+36 | 251–300 | Bournemouth University
+37 | 251–300 | Brighton and Sussex Medical School
+38 | 251–300 | Swansea University
+39 | 301–350 | Anglia Ruskin University (ARU)
+40 | 301–350 | University of Essex
+41 | 351–400 | Birkbeck, University of London
+42 | 351–400 | City, University of London
+43 | 351–400 | University of Kent
+44 | 351–400 | Loughborough University
+45 | 351–400 | Royal Holloway, University of London
+46 | 351–400 | Royal Veterinary College
+47 | 351–400 | University of Stirling
+48 | 401–500 | Aston University
+49 | 401–500 | Bangor University
+50 | 401–500 | Brunel University London
+51 | 401–500 | Edinburgh Napier University
+52 | 401–500 | University of Lincoln
+53 | 401–500 | Liverpool John Moores University
+54 | 401–500 | Middlesex University
+55 | 401–500 | University of Plymouth
+56 | 401–500 | University of Portsmouth
+57 | 401–500 | SRUC (Scotland’s Rural College)
+58 | 401–500 | University of Strathclyde
+59 | 401–500 | University of the West of England
+60 | 501–600 | Aberystwyth University
+61 | 501–600 | Birmingham City University
+62 | 501–600 | University of Bradford
+63 | 501–600 | Goldsmiths, University of London
+64 | 501–600 | University of Greenwich
+65 | 501–600 | Heriot-Watt University
+66 | 501–600 | University of Hull
+67 | 501–600 | Keele University
+68 | 501–600 | Northumbria University
+69 | 501–600 | Nottingham Trent University
+70 | 501–600 | SOAS University of London
+
 ## Canada
 #|rank|Uni
 ---|---|---
@@ -197,6 +271,43 @@ Columbia University|Minimum GPA3.3|Computer Science Master's Degree|104k|https:/
 17 | 401–500 | York University
 18 | 501–600 | University of Guelph
 19 | 501–600 | University of Saskatchewan
+
+
+## Australia
+#|rank|Uni
+---|---|---
+1 | 34 | University of Melbourne
+2 | 44 | Monash University
+3 | 53 | The University of Queensland
+4 | 54 | The University of Sydney
+5 | 62 | Australian National University
+6 | 71 | UNSW Sydney
+7 | 88 | University of Adelaide
+8 | 131 | The University of Western Australia
+9 | 133 | University of Technology Sydney
+10 | 175 | Macquarie University
+11 | 201–250 | Curtin University
+12 | 201–250 | University of Newcastle
+13 | 201–250 | Queensland University of Technology
+14 | 201–250 | Western Sydney University
+15 | 201–250 | University of Wollongong
+16 | 251–300 | Australian Catholic University
+17 | 251–300 | Bond University
+18 | 251–300 | University of Canberra
+19 | 251–300 | Deakin University
+20 | 251–300 | Griffith University
+21 | 251–300 | La Trobe University
+22 | 301–350 | Flinders University
+23 | 301–350 | RMIT University
+24 | 301–350 | University of South Australia
+25 | 301–350 | University of Southern Queensland
+26 | 301–350 | Swinburne University of Technology
+27 | 301–350 | University of Tasmania
+28 | 351–400 | Charles Darwin University
+29 | 351–400 | Edith Cowan University
+30 | 351–400 | James Cook University
+31 | 401–500 | Murdoch University
+32 | 501–600 | Victoria University
 
 ## Korea
 #|rank|Uni
