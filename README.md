@@ -59,112 +59,112 @@ Columbia University|Minimum GPA3.3|Computer Science Master's Degree|104k|https:/
 
 # Top 600
 ## US
-#|rank|Uni
----|---|---
-1 | 2 | Harvard University
-2 | 3 | Stanford University
-3 | 5 | Massachusetts Institute of Technology
-4 | 6 | California Institute of Technology
-5 | 7 | Princeton University
-6 | 8 | University of California, Berkeley
-7 | 9 | Yale University
-8 | 11 | Columbia University
-9 | 13 | The University of Chicago
-10 | 14 | University of Pennsylvania
-11 | 15 | Johns Hopkins University
-12 | 20 | Cornell University
-13 | 21 | University of California, Los Angeles
-14 | 23 | University of Michigan-Ann Arbor
-15 | 24 | New York University
-16 | 25 | Duke University
-17 | 26 | Northwestern University
-18 | 26 | University of Washington
-19 | 28 | Carnegie Mellon University
-20 | 32 | University of California, San Diego
-21 | 38 | Georgia Institute of Technology
-22 | 48 | University of Illinois at Urbana-Champaign
-23 | 50 | University of Texas at Austin
-24 | 57 | Washington University in St Louis
-25 | 61 | Brown University
-26 | 63 | University of California, Davis
-27 | 64 | University of California, Santa Barbara
-28 | 65 | University of Southern California
-29 | 69 | University of North Carolina at Chapel Hill
-30 | 71 | Boston University
-31 | 81 | University of Wisconsin-Madison
-32 | 82 | Emory University
-33 | 95 | University of California, Irvine
-34 | 98 | Vanderbilt University
-35 | 101 | University of Minnesota
-36 | 104 | University of Maryland, College Park
-37 | 106 | Michigan State University
-38 | 112 | Ohio State University (Main campus)
-39 | 123 | Dartmouth College
-40 | 127 | Purdue University West Lafayette
-41 | 134 | Case Western Reserve University
-42 | 136 | Georgetown University
-43 | 144 | University of Pittsburgh-Pittsburgh campus
-44 | 147 | Rice University
-45 | 148 | University of Colorado Boulder
-46 | 151 | University of Florida
-47 | 151 | Penn State (Main campus)
-48 | 151 | Tufts University
-49 | 154 | University of Rochester
-50 | 156 | Arizona State University (Tempe)
-51 | 156 | University of Virginia (Main campus)
-52 | 168 | Northeastern University, US
-53 | 170 | Indiana University
-54 | 180 | University of Arizona
-55 | 181 | Texas A&M University
-56 | 191 | University of Massachusetts
-57 | 192 | University of California, Santa Cruz
-58 | 194 | University of Miami
-59 | 201–250 | George Washington University
-60 | 201–250 | University of Notre Dame
-61 | 201–250 | Rutgers University – New Brunswick
-62 | 201–250 | University of South Florida
-63 | 251–300 | Boston College
-64 | 251–300 | University of California, Riverside
-65 | 251–300 | University of Hawai’i at Mānoa
-66 | 251–300 | University of Illinois Chicago
-67 | 251–300 | Oregon Health and Science University
-68 | 251–300 | University of Utah
-69 | 251–300 | Virginia Polytechnic Institute and State University
-70 | 301–350 | Brandeis University
-71 | 301–350 | University at Buffalo
-72 | 301–350 | University of California, Merced
-73 | 301–350 | University of Colorado Denver/Anschutz Medical Campus
-74 | 301–350 | Drexel University
-75 | 301–350 | Florida State University
-76 | 301–350 | George Mason University
-77 | 301–350 | University of Iowa
-78 | 301–350 | Saint Louis University
-79 | 301–350 | Stony Brook University
-80 | 301–350 | Temple University
-81 | 301–350 | The University of Tennessee-Knoxville
-82 | 351–400 | University of Delaware
-83 | 351–400 | Howard University
-84 | 351–400 | University of New Mexico (Main campus)
-85 | 351–400 | North Carolina State University
-86 | 351–400 | Rush University
-87 | 351–400 | University of Texas at Dallas
-88 | 351–400 | Tulane University
-89 | 351–400 | Wake Forest University
-90 | 351–400 | Washington State University
-91 | 401–500 | University of Alaska Fairbanks
-92 | 401–500 | Colorado School of Mines
-93 | 401–500 | Colorado State University, Fort Collins
-94 | 401–500 | University of Connecticut
-95 | 401–500 | University of Denver
-96 | 401–500 | Georgia State University
-97 | 401–500 | Illinois Institute of Technology
-98 | 401–500 | Iowa State University
-99 | 401–500 | University of Kansas
-100 | 401–500 | University of Nebraska-Lincoln
-101 | 401–500 | University of Nebraska Medical Center
-102 | 401–500 | Nova Southeastern University
-103 | 401–500 | Syracuse University
-104 | 401–500 | The University of Tulsa
+#|rank|Uni|Program|Reqs|Tuition|Earliest Start|Link
+---|---|---|---|---|---|---|---
+1 | 2 | Harvard University|-|-|-|-|-
+2 | 3 | Stanford University|-|-|-|-|-
+3 | 5 | Massachusetts Institute of Technology|-|-|-|-|-
+4 | 6 | California Institute of Technology|-|-|-|-|-
+5 | 7 | Princeton University|-|-|-|-|-
+6 | 8 | University of California, Berkeley|-|-|-|-|-
+7 | 9 | Yale University|-|-|-|-|-
+8 | 11 | Columbia University|-|-|-|-|-
+9 | 13 | The University of Chicago|-|-|-|-|-
+10 | 14 | University of Pennsylvania|-|-|-|-|-
+11 | 15 | Johns Hopkins University|-|-|-|-|-
+12 | 20 | Cornell University|-|-|-|-|-
+13 | 21 | University of California, Los Angeles|-|-|-|-|-
+14 | 23 | University of Michigan-Ann Arbor|-|-|-|-|-
+15 | 24 | New York University|-|-|-|-|-
+16 | 25 | Duke University|-|-|-|-|-
+17 | 26 | Northwestern University|-|-|-|-|-
+18 | 26 | University of Washington|-|-|-|-|-
+19 | 28 | Carnegie Mellon University|-|-|-|-|-
+20 | 32 | University of California, San Diego|-|-|-|-|-
+21 | 38 | Georgia Institute of Technology|-|-|-|-|-
+22 | 48 | University of Illinois at Urbana-Champaign|-|-|-|-|-
+23 | 50 | University of Texas at Austin|-|-|-|-|-
+24 | 57 | Washington University in St Louis|-|-|-|-|-
+25 | 61 | Brown University|-|-|-|-|-
+26 | 63 | University of California, Davis|-|-|-|-|-
+27 | 64 | University of California, Santa Barbara|-|-|-|-|-
+28 | 65 | University of Southern California|-|-|-|-|-
+29 | 69 | University of North Carolina at Chapel Hill|-|-|-|-|-
+30 | 71 | Boston University|-|-|-|-|-
+31 | 81 | University of Wisconsin-Madison|-|-|-|-|-
+32 | 82 | Emory University|-|-|-|-|-
+33 | 95 | University of California, Irvine|-|-|-|-|-
+34 | 98 | Vanderbilt University|-|-|-|-|-
+35 | 101 | University of Minnesota|-|-|-|-|-
+36 | 104 | University of Maryland, College Park|-|-|-|-|-
+37 | 106 | Michigan State University|-|-|-|-|-
+38 | 112 | Ohio State University (Main campus)|-|-|-|-|-
+39 | 123 | Dartmouth College|-|-|-|-|-
+40 | 127 | Purdue University West Lafayette|-|-|-|-|-
+41 | 134 | Case Western Reserve University|-|-|-|-|-
+42 | 136 | Georgetown University|-|-|-|-|-
+43 | 144 | University of Pittsburgh-Pittsburgh campus|-|-|-|-|-
+44 | 147 | Rice University|-|-|-|-|-
+45 | 148 | University of Colorado Boulder|-|-|-|-|-
+46 | 151 | University of Florida|-|-|-|-|-
+47 | 151 | Penn State (Main campus)|-|-|-|-|-
+48 | 151 | Tufts University|-|-|-|-|-
+49 | 154 | University of Rochester|-|-|-|-|-
+50 | 156 | Arizona State University (Tempe)|-|-|-|-|-
+51 | 156 | University of Virginia (Main campus)|-|-|-|-|-
+52 | 168 | Northeastern University, US|-|-|-|-|-
+53 | 170 | Indiana University|-|-|-|-|-
+54 | 180 | University of Arizona|-|-|-|-|-
+55 | 181 | Texas A&M University|-|-|-|-|-
+56 | 191 | University of Massachusetts|-|-|-|-|-
+57 | 192 | University of California, Santa Cruz|-|-|-|-|-
+58 | 194 | University of Miami|-|-|-|-|-
+59 | 201–250 | George Washington University|-|-|-|-|-
+60 | 201–250 | University of Notre Dame|-|-|-|-|-
+61 | 201–250 | Rutgers University – New Brunswick|-|-|-|-|-
+62 | 201–250 | University of South Florida|-|-|-|-|-
+63 | 251–300 | Boston College|-|-|-|-|-
+64 | 251–300 | University of California, Riverside|-|-|-|-|-
+65 | 251–300 | University of Hawai’i at Mānoa|-|-|-|-|-
+66 | 251–300 | University of Illinois Chicago|-|-|-|-|-
+67 | 251–300 | Oregon Health and Science University|-|-|-|-|-
+68 | 251–300 | University of Utah|-|-|-|-|-
+69 | 251–300 | Virginia Polytechnic Institute and State University|-|-|-|-|-
+70 | 301–350 | Brandeis University|-|-|-|-|-
+71 | 301–350 | University at Buffalo|-|-|-|-|-
+72 | 301–350 | University of California, Merced|-|-|-|-|-
+73 | 301–350 | University of Colorado Denver/Anschutz Medical Campus|-|-|-|-|-
+74 | 301–350 | Drexel University|-|-|-|-|-
+75 | 301–350 | Florida State University|-|-|-|-|-
+76 | 301–350 | George Mason University|-|-|-|-|-
+77 | 301–350 | University of Iowa|-|-|-|-|-
+78 | 301–350 | Saint Louis University|-|-|-|-|-
+79 | 301–350 | Stony Brook University|-|-|-|-|-
+80 | 301–350 | Temple University|-|-|-|-|-
+81 | 301–350 | The University of Tennessee-Knoxville|-|-|-|-|-
+82 | 351–400 | University of Delaware|-|-|-|-|-
+83 | 351–400 | Howard University|-|-|-|-|-
+84 | 351–400 | University of New Mexico (Main campus)|-|-|-|-|-
+85 | 351–400 | North Carolina State University|-|-|-|-|-
+86 | 351–400 | Rush University|-|-|-|-|-
+87 | 351–400 | University of Texas at Dallas|-|-|-|-|-
+88 | 351–400 | Tulane University|-|-|-|-|-
+89 | 351–400 | Wake Forest University|-|-|-|-|-
+90 | 351–400 | Washington State University|-|-|-|-|-
+91 | 401–500 | University of Alaska Fairbanks|-|-|-|-|-
+92 | 401–500 | Colorado School of Mines|-|-|-|-|-
+93 | 401–500 | Colorado State University, Fort Collins|-|-|-|-|-
+94 | 401–500 | University of Connecticut|-|-|-|-|-
+95 | 401–500 | University of Denver|-|-|-|-|-
+96 | 401–500 | Georgia State University|-|-|-|-|-
+97 | 401–500 | Illinois Institute of Technology|-|-|-|-|-
+98 | 401–500 | Iowa State University|-|-|-|-|-
+99 | 401–500 | University of Kansas|-|-|-|-|https://catalog.ku.edu/engineering/electrical-engineering-computer-science/ms-computer-science/
+100 | 401–500 | University of Nebraska-Lincoln|-|-|-|-|https://online.unl.edu/programs/masters-degrees
+101 | 401–500 | University of Nebraska Medical Center|-|-|-|-|-
+102 | 401–500 | Nova Southeastern University|M.S. IN COMPUTER SCIENCE|GPA of at least 2.5 ||July 21, 2023|https://computing.nova.edu/degrees/masters/computer-science.html
+103 | 401–500 | Syracuse University|Master’s in Computer Science|GPA of 3.0 or better and competencies in discrete mathematics, calculus, data structures, programming (C and C++), and computer organization|56,160|May 11, 2023.|https://onlinegrad.syracuse.edu/engineering/computer-science/
+104 | 401–500 | The University of Tulsa|M.S. in Cyber Security|Minimum cumulative GPA of 3.0 is preferred. GRE waiver one of: 3+ years of IT-related work experience, 1+ year of cybersecurity work, A graduate degree in any field, Completion of certain certifications|$41,670|May 15, 2023|https://cybersecurityonline.utulsa.edu/online-experience/
 105 | 401–500 | William & Mary
 106 | 501–600 | Florida International University
 107 | 501–600 | University of Kentucky
@@ -173,7 +173,7 @@ Columbia University|Minimum GPA3.3|Computer Science Master's Degree|104k|https:/
 110 | 501–600 | Stevens Institute of Technology
 111 | 501–600 | SUNY University at Albany
 112 | 501–600 | Virginia Commonwealth University
-113 | 501–600 | Wayne State University
+113 | 501–600 | Wayne State University|Program|Reqs|Tuition|Earliest Start|Link
 
 ## UK
 #|rank|Uni
