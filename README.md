@@ -157,8 +157,11 @@ Columbia University|Minimum GPA3.3|Computer Science Master's Degree|104k|https:/
 94 | 401–500 | University of Connecticut|-|-|-|-|-
 95 | 401–500 | University of Denver|-|-|-|-|-
 96 | 401–500 | Georgia State University|-|-|-|-|-
-97 | 401–500 | Illinois Institute of Technology|-|-|-|-|-
-98 | 401–500 | Iowa State University|-|-|-|-|-
+97 | 401–500 | Illinois Institute of Technology|-|-|-|A bachelor’s degree with an overall grade-point average of 3.0 on a 4.0 scale,Minimum GRE scores of 300 (quantitative + verbal) and 3.0 (analytic writing), TOEFL/PTE/IELTS scores are required from applicants who earned their bachelor’s degree at an institution in which English was not the primary instructional language, Applicants whose bachelor’s degree is not in computer science may have to take prerequisite undergraduate courses for credit hours that will not apply to their master’s degree|https://www.iit.edu/academics/programs/computer-science-ms
+98 | 401–500 | Iowa State University|-|24k|for fall admission, please apply by July 15; for spring admission, apply by December 1|GPA of 3.0 or better, GRE of 155 or better on the Quantitative section. This requirement may be waived if the applicant has either an undergraduate cumulative GPA of 3.0 or better on a 4.0 scale, or at least two years of relevant work experience in the industry.
+Statement of Purpose
+3 letters of recommendation
+Non-native speakers of English must also satisfy the English Proficiency Requirement with a TOEFL score of 88 or better (or equivalent)|https://engineeringonline.iastate.edu/graduate-degrees/computer-engineering-masters-degree-online/
 99 | 401–500 | University of Kansas|-|-|-|-|https://catalog.ku.edu/engineering/electrical-engineering-computer-science/ms-computer-science/
 100 | 401–500 | University of Nebraska-Lincoln|-|-|-|-|https://online.unl.edu/programs/masters-degrees
 101 | 401–500 | University of Nebraska Medical Center|-|-|-|-|-
@@ -274,40 +277,40 @@ Columbia University|Minimum GPA3.3|Computer Science Master's Degree|104k|https:/
 
 
 ## Australia
-#|rank|Uni
----|---|---
-1 | 34 | University of Melbourne
-2 | 44 | Monash University
-3 | 53 | The University of Queensland
-4 | 54 | The University of Sydney
-5 | 62 | Australian National University
-6 | 71 | UNSW Sydney
-7 | 88 | University of Adelaide
-8 | 131 | The University of Western Australia
-9 | 133 | University of Technology Sydney
-10 | 175 | Macquarie University
-11 | 201–250 | Curtin University
-12 | 201–250 | University of Newcastle
-13 | 201–250 | Queensland University of Technology
-14 | 201–250 | Western Sydney University
-15 | 201–250 | University of Wollongong
-16 | 251–300 | Australian Catholic University
-17 | 251–300 | Bond University
-18 | 251–300 | University of Canberra
-19 | 251–300 | Deakin University
-20 | 251–300 | Griffith University
-21 | 251–300 | La Trobe University
-22 | 301–350 | Flinders University
-23 | 301–350 | RMIT University
-24 | 301–350 | University of South Australia
-25 | 301–350 | University of Southern Queensland
-26 | 301–350 | Swinburne University of Technology
-27 | 301–350 | University of Tasmania
-28 | 351–400 | Charles Darwin University
-29 | 351–400 | Edith Cowan University
-30 | 351–400 | James Cook University
-31 | 401–500 | Murdoch University
-32 | 501–600 | Victoria University
+#|rank|Uni|City
+---|---|---|---
+1 | 34 | University of Melbourne | Melbourne
+2 | 44 | Monash University | Melbourne
+3 | 53 | The University of Queensland | Brisbane
+4 | 54 | The University of Sydney | Sydney
+5 | 62 | Australian National University | Canberra
+6 | 71 | UNSW Sydney | Sydney
+7 | 88 | University of Adelaide | Adelaide
+8 | 131 | The University of Western Australia | Perth
+9 | 133 | University of Technology Sydney | Sydney
+10 | 175 | Macquarie University | Sydney
+11 | 201–250 | Curtin University | Perth
+12 | 201–250 | University of Newcastle | Newcastle
+13 | 201–250 | Queensland University of Technology | Brisbane
+14 | 201–250 | Western Sydney University | Sydney
+15 | 201–250 | University of Wollongong | Wollongong
+16 | 251–300 | Australian Catholic University | Sydney
+17 | 251–300 | Bond University | Gold Coast
+18 | 251–300 | University of Canberra | Canberra
+19 | 251–300 | Deakin University | Melbourne
+20 | 251–300 | Griffith University | Brisbane
+21 | 251–300 | La Trobe University | Melbourne
+22 | 301–350 | Flinders University | Adelaide
+23 | 301–350 | RMIT University | Melbourne
+24 | 301–350 | University of South Australia | Adelaide
+25 | 301–350 | University of Southern Queensland | Toowoomba
+26 | 301–350 | Swinburne University of Technology | Melbourne
+27 | 301–350 | University of Tasmania | Hobart
+28 | 351–400 | Charles Darwin University | Darwin
+29 | 351–400 | Edith Cowan University | Perth
+30 | 351–400 | James Cook University | Townsville
+31 | 401–500 | Murdoch University | Perth
+32 | 501–600 | Victoria University | Melbourne
 
 ## Korea
 #|rank|Uni
