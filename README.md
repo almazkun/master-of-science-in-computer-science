@@ -277,8 +277,8 @@ Non-native speakers of English must also satisfy the English Proficiency Require
 
 
 ## Australia
-#|rank|Uni|City
----|---|---|---
+#|rank|Uni|City|Reqs|Tuition AUD|Earliest Start|Link|Name
+---|---|---|---|---|---|---|---|---
 1 | 34 | University of Melbourne | Melbourne
 2 | 44 | Monash University | Melbourne
 3 | 53 | The University of Queensland | Brisbane
@@ -286,10 +286,10 @@ Non-native speakers of English must also satisfy the English Proficiency Require
 5 | 62 | Australian National University | Canberra
 6 | 71 | UNSW Sydney | Sydney
 7 | 88 | University of Adelaide | Adelaide
-8 | 131 | The University of Western Australia | Perth
+8 | 131 | The University of Western Australia | Perth |To be considered for admission to this course an applicant must have—(a) a bachelor's degree, or an equivalent qualification, as recognised by UWA; and(b) the equivalent of a UWA weighted average mark of at least 65 per cent; and (c) completed Mathematics Applications ATAR, or equivalent, as recognised by UWA.|$87,600/2yrs|semester 1 and semester 2| https://www.uwa.edu.au/study/Courses/Master-of-Information-Technology | Master of Information Technology (IT)
 9 | 133 | University of Technology Sydney | Sydney
 10 | 175 | Macquarie University | Sydney
-11 | 201–250 | Curtin University | Perth
+11 | 201–250 | Curtin University | Perth | A bachelor’s degree in information technology, Computer Science, or Engineering OR A bachelor’s degree and demonstrated knowledge and skills in programming, operating systems, and computing mathematics | $31,588/fyr | semester 1 (8 February 2024) and semester 2 (4 July 2024) | https://www.curtin.edu.au/study/offering/course-pg-master-of-computing--mc-comp/ | Master of Computing
 12 | 201–250 | University of Newcastle | Newcastle
 13 | 201–250 | Queensland University of Technology | Brisbane
 14 | 201–250 | Western Sydney University | Sydney
@@ -307,9 +307,9 @@ Non-native speakers of English must also satisfy the English Proficiency Require
 26 | 301–350 | Swinburne University of Technology | Melbourne
 27 | 301–350 | University of Tasmania | Hobart
 28 | 351–400 | Charles Darwin University | Darwin
-29 | 351–400 | Edith Cowan University | Perth
+29 | 351–400 | Edith Cowan University | Perth | Bachelor degree; or Equivalent prior learning including at least five years relevant professional experience. | $39,000/fyr | semester 1 and semester 2 | https://www.ecu.edu.au/degrees/courses/master-of-computer-science | Master of Computer Science
 30 | 351–400 | James Cook University | Townsville
-31 | 401–500 | Murdoch University | Perth
+31 | 401–500 | Murdoch University | Perth |Recognised Bachelor's degree in IT (AQF Level 7); OR recognised non-IT Bachelor's degree plus an approved qualification in IT (AQF Level 8); OR recognised non-IT Honours degree (AQF Level 8) plus five or more years of relevant experience.Recognition of relevant and current informal or non-formal learning may be used for entry requirements, and should be discussed with the Academic Chair. |$61,680/2yrs|semester 1 and semester 2|https://www.murdoch.edu.au/course/postgraduate/m1220|Master of Information Technology
 32 | 501–600 | Victoria University | Melbourne
 
 ## Korea
