@@ -289,7 +289,7 @@ Non-native speakers of English must also satisfy the English Proficiency Require
 8 | 131 | The University of Western Australia | Perth |To be considered for admission to this course an applicant must have—(a) a bachelor's degree, or an equivalent qualification, as recognised by UWA; and(b) the equivalent of a UWA weighted average mark of at least 65 per cent; and (c) completed Mathematics Applications ATAR, or equivalent, as recognised by UWA.|$87,600/2yrs|semester 1 and semester 2| https://www.uwa.edu.au/study/Courses/Master-of-Information-Technology | Master of Information Technology (IT) | Yes
 9 | 133 | University of Technology Sydney | Sydney
 10 | 175 | Macquarie University | Sydney
-11 | 201–250 | Curtin University | Perth | A bachelor’s degree in information technology, Computer Science, or Engineering OR A bachelor’s degree and demonstrated knowledge and skills in programming, operating systems, and computing mathematics | $63,176/ful| semester 1 (8 February 2024) and semester 2 (4 July 2024) | https://www.curtin.edu.au/study/offering/course-pg-master-of-computing--mc-comp/ | Master of Computing | Yes
+11 | 201–250 | Curtin University | Perth | A bachelor’s degree in information technology, Computer Science, or Engineering OR A bachelor’s degree and demonstrated knowledge and skills in programming, operating systems, and computing mathematics | $66,010/ful| semester 1 (8 February 2024) and semester 2 (4 July 2024) | https://www.curtin.edu.au/study/offering/course-pg-master-of-computing--mc-comp/ | Master of Computing | Yes
 12 | 201–250 | University of Newcastle | Newcastle
 13 | 201–250 | Queensland University of Technology | Brisbane
 14 | 201–250 | Western Sydney University | Sydney
@@ -297,7 +297,7 @@ Non-native speakers of English must also satisfy the English Proficiency Require
 16 | 251–300 | Australian Catholic University | Sydney
 17 | 251–300 | Bond University | Gold Coast
 18 | 251–300 | University of Canberra | Canberra
-19 | 251–300 | Deakin University | Melbourne |Bachelor Degree in any discipline AND two years relevant work experience|$58,800/ful|Mar, Jul, Nov|https://www.deakin.edu.au/course/master-information-technology-professional|Master of Information Technology (Professional) | Yes
+19 | 251–300 | Deakin University | Melbourne |Bachelor Degree in any discipline AND two years relevant work experience|$74,080/ful|Mar, Jul, Nov|https://www.deakin.edu.au/course/master-information-technology-professional|Master of Information Technology (Professional) | Yes
 20 | 251–300 | Griffith University | Brisbane
 21 | 251–300 | La Trobe University | Melbourne |Successful completion of an Australian bachelor degree (or equivalent).|$76,400/ful|Feb, Jul|https://www.latrobe.edu.au/courses/master-of-information-technology|Master of Information Technology|Yes
 22 | 301–350 | Flinders University | Adelaide
@@ -309,7 +309,7 @@ Non-native speakers of English must also satisfy the English Proficiency Require
 28 | 351–400 | Charles Darwin University | Darwin
 29 | 351–400 | Edith Cowan University | Perth | Bachelor degree; or Equivalent prior learning including at least five years relevant professional experience. | $78,000/ful | semester 1 and semester 2 | https://www.ecu.edu.au/degrees/courses/master-of-computer-science | Master of Computer Science | Yes
 30 | 351–400 | James Cook University | Townsville
-31 | 401–500 | Murdoch University | Perth |Recognised Bachelor's degree in IT (AQF Level 7); OR recognised non-IT Bachelor's degree plus an approved qualification in IT (AQF Level 8); OR recognised non-IT Honours degree (AQF Level 8) plus five or more years of relevant experience.Recognition of relevant and current informal or non-formal learning may be used for entry requirements, and should be discussed with the Academic Chair. |$61,680/ful|semester 1 and semester 2|https://www.murdoch.edu.au/course/postgraduate/m1220|Master of Information Technology | No
+31 | 401–500 | Murdoch University | Perth |Recognised Bachelor's degree in IT (AQF Level 7); OR recognised non-IT Bachelor's degree plus an approved qualification in IT (AQF Level 8); OR recognised non-IT Honours degree (AQF Level 8) plus five or more years of relevant experience.Recognition of relevant and current informal or non-formal learning may be used for entry requirements, and should be discussed with the Academic Chair. |$58,460/ful|semester 1 and semester 2|https://www.murdoch.edu.au/course/postgraduate/m1220|Master of Information Technology | No
 32 | 501–600 | Victoria University | Melbourne |Completion of an Australian Bachelor degree (or equivalent) in a similar discipline OR Completion of an Australian Graduate Diploma (or equivalent) in a similar discipline|$65,600/ful|May, Jul, Oct|https://www.vu.edu.au/courses/international/master-of-applied-information-technology-nmit|Master of Applied Information Technology | Yes
 
 ## Korea
